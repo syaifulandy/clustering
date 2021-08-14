@@ -1,4 +1,4 @@
-# Clustering with Recency, Frequency, and Monetary (RFM)
+# Clustering Recency, Frequency, and Monetary (RFM)
 
 Dataset: transactions.csv
 
